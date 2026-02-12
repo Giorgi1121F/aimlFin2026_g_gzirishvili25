@@ -43,7 +43,7 @@ Optional tuning (if needed for other logs):
   - `--ratio-threshold 1.8` (more sensitive)
 
 ## 4) Evidence the script was executed
-![CMD execution screenshot](Screenshot 2026-02-12 203620.png)
+![CMD execution screenshot](Screenshot_2026-02-12_203620.png)
 
 
 ## 5) Regression approach (why regression is used here)
