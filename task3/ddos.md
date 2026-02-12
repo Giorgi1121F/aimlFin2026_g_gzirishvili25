@@ -10,7 +10,7 @@
   - `out/regression_plot.png`
   - `out/residuals_plot.png`
   - `out/run_summary.txt`
-- **Execution proof screenshot:** `Screenshot 2026-02-12 203620.png`
+- **Execution  screenshot:** `Screenshot_2026-02-12_203620.png`
 
 > **Log link (same folder):** `./g_gzirishvili25_72345_server.log`  
 > (In GitHub, this becomes a clickable link automatically.)
