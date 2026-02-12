@@ -1,0 +1,13 @@
+Log file: g_gzirishvili25_72345_server.log
+Parsed events: 64415
+Time range (UTC): 2024-03-22 18:00:01+00:00  ->  2024-03-22 19:00:59+00:00
+Resample freq: 1S
+Regression: LinearRegression(y ~ time_index), coef=-0.001014, intercept=16.019203
+Anomaly thresholds: z>=3.0, ratio>=2.0
+Detected intervals: 4
+
+Intervals (UTC):
+ - 2024-03-22 18:19:24+00:00  ->  2024-03-22 18:19:30+00:00   (6 sec)
+ - 2024-03-22 18:20:35+00:00  ->  2024-03-22 18:20:41+00:00   (6 sec)
+ - 2024-03-22 18:22:01+00:00  ->  2024-03-22 18:24:00+00:00   (119 sec)
+ - 2024-03-22 18:45:02+00:00  ->  2024-03-22 18:45:07+00:00   (5 sec)
