@@ -1,9 +1,5 @@
 # DDoS Detection Report (Regression-Based)
 
-**Course:** AI AND ML FOR CYBERSECURITY — FINAL EXAM  
-**Task:** Identify DDoS attack time interval(s) from the provided event log and document the work.
-
-
 ## 1) Files in this folder (GitHub: `task_3/`)
 - **Event log:** `g_gzirishvili25_72345_server.log`  
 - **Source code:** `code.py`  
